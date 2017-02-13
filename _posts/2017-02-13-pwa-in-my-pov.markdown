@@ -4,7 +4,7 @@ title:      "Progressive Web App 之我见"
 subtitle:   "Slides: Progressive Web App, in my points of view"
 iframe:     "//huangxuan.me/pwa-in-my-pov/"
 navcolor:   "invert"
-date:       2016-06-05
+date:       2017-02-13
 author:     "xuepeiyu"
 tags:
     - 前端开发
